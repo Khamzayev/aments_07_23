@@ -41,7 +41,7 @@ DJANGO_APPS = [
 ]
 
 CUSTOM_APPS = [
-    'main',
+    'blog',
 ]
 
 THIRD_PART_APPS = [

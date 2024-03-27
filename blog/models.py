@@ -69,6 +69,8 @@ class Comment(BaseModel):
         verbose_name_plural = _("4.Comments")
         ordering = ['-created_at']
 
+        
+
 
 
 
